@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q4TisiOi2Y7X0O5NgSaOag0gqbiojUpYhcxPLbe/Z2POhIsYV90xbYhRWhV+C/4Lrs6JiFzQ3hS8hEVwNChAVw==",
+  "success": false,
+  "projectFilePath": "D:\\_ws\\POC\\_PROJETOS\\gitAraujo\\TI.Cond.ObjetoTransferencia\\TI.Cond.ObjetoTransferencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jefer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jefer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\_ws\\POC\\_PROJETOS\\gitAraujo\\TI.Cond.RegraNegocio\\TI.Cond.RegraNegocio.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "D:\\_ws\\POC\\_PROJETOS\\gitAraujo\\TI.Cond.RegraNegocio\\TI.Cond.RegraNegocio.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
